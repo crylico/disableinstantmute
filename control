@@ -1,0 +1,9 @@
+Package: com.crylico.disableinstantmute
+Name: disableinstantmute
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Disable the instant mute after 2 ticks while lowering the volume on your iPad.
+Maintainer: Kyle Levin
+Author: Kyle Levin
+Section: Tweaks
